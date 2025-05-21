@@ -13,35 +13,35 @@ const WorkoutSessions = () => {
       <div className="wrapper">
         <h1>FEATURED BOOTCAMPS</h1>
         <p>
-        Feature bootcamps offer intensive, hands-on training in product management, design, and tech skills, preparing professionals for industry roles.
+        Our signature fitness bootcamps combine high-intensity workouts, expert coaching, and group motivation to help you achieve maximum results in minimum time.
         </p>
         <div className="bootcamps">
           <div>
-            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+            <h4>Power HIIT Challenge - 30 Days to Total Body Transformation</h4>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-              saepe repellendus nemo sit facere ipsam!
+              Intensive interval training focused on full-body conditioning, combining cardio bursts 
+              with strength exercises for maximum calorie burn and muscle building in just 45 minutes per session.
             </p>
           </div>
           <div>
-            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+            <h4>Core & Strength Foundations - Build Your Base</h4>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-              saepe repellendus nemo sit facere ipsam!
+              Master essential strength movements with proper form while developing a rock-solid core. 
+              Perfect for beginners and those looking to refine their technique for long-term fitness success.
             </p>
           </div>
           <div>
-            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+            <h4>Functional Fitness Warrior Camp - Move Better, Live Better</h4>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-              saepe repellendus nemo sit facere ipsam!
+              Enhance everyday movement patterns through dynamic exercises that improve mobility,
+              stability and strength. Ideal for all fitness levels looking for practical fitness results.
             </p>
           </div>
           <div>
-            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+            <h4>Shred & Sculpt Bootcamp - Define Your Physique</h4>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-              saepe repellendus nemo sit facere ipsam!
+              High-energy circuit training combining resistance work and metabolic conditioning
+              designed to burn fat and define muscles for a lean, toned appearance.
             </p>
           </div>
         </div>
